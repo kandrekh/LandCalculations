@@ -1,2 +1,2 @@
 # LandCalculations
-Converts sqft to acrs
+Converts sqft to acres
